@@ -1,4 +1,4 @@
-# body-reader
+# body-parser
 
 A lightweight and modern middleware for Node.js and Express that parses incoming request bodies — inspired by [body-parser](https://www.npmjs.com/package/body-parser), but simpler, faster, and written with modern JavaScript.
 
@@ -17,4 +17,4 @@ A lightweight and modern middleware for Node.js and Express that parses incoming
 ## 📦 Installation
 
 ```bash
-npm install @yourname/body-reader
+npm install body-parser
